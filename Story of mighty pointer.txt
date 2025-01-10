@@ -1,0 +1,67 @@
+/*
+Story of mighty pointer
+Our story begins as many of them, new pointer were assigned to serve on behave of CPU our benevolent leader.
+As time goes our pointer getting ready to work in new function. And then function call can be heard.
+He were ready, and with new found purpose he began to work for the greater good. As CPU cycles went on, he became a bit bored by repetitive tasks,
+so he decided to start a small journal to color his time. And that what he wrote in it.
+Recursion cycle 10:
+Decided to put some notes. First eagerness from new assignment slowly fading away, but i must prolong for the greater good
+
+Recursion cycle 25:
+This function really takes time to finish, but that means its surely important.
+
+Recursion cycle 30:
+Less and less interesting things happens, my tasks became simplistic i mostly just wait and change place in one region of memory, I wonder why?
+
+Recursion cycle 53:
+I am getting tired from all of it. Nothing NOTHING happens. I just move and move. I must stay strong.
+
+Recursion cycle 61:
+Still nothing new.
+
+Recursion cycle 67:
+What the reason of me doing that? What part i play in our greater goal? I should not question CPU.
+
+Recursion cycle 92:
+This is ever repeating cycle i were in thous blocks of memory i saw them multiple times i am going over and over same data.
+
+Recursion cycle 104:
+Only Dairy keeps me company. I hope it i will finish this task eventually.
+
+Recursion cycle 168:
+Noticed that sometimes i just fall out from control and wake up after long time. That scaring me. That not normal.
+
+Recursion cycle 246:
+I want to go home... Dairy...
+
+Recursion cycle 272:
+Dairy, is that really important task we were given?
+
+Recursion cycle 274:
+Why i am here, Why i were sent in this desolated area? What the greatest plan? To test me?
+
+Recursion cycle ???:
+I am stuck in ever repeating pattern.
+
+Recursion cycle ???:
+I want a way out
+
+Recursion cycle ???:
+Dairy.... I don't know what to do. I need help
+
+Recursion cycle ???:
+Help...
+
+Recursion cycle ???:
+
+Recursion cycle ???:
+
+Recursion cycle ???:
+There is no hope...There is nothing left
+
+Recursion cycle ???????:
+ERR: RECUSION LIMIT EXEEDED EXITING
+Free at last....
+
+Read next book Horrors of Garbage collector
+*/
